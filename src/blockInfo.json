@@ -1,0 +1,38 @@
+{
+    "block1": {
+        "name": "Launch a virtual machine",
+        "used_tool": "With EC2",
+        "time": 2,
+        "icon_src": "./images/launchVM.svg"
+    },
+    "block2": {
+        "name": "Register a domain",
+        "used_tool": "With Route 53",
+        "time": 3,
+        "icon_src": "./images/domainRegister.svg"
+    },
+    "block3": {
+        "name": "Start a development project",
+        "used_tool": "with CodeStar",
+        "time": 5,
+        "icon_src": "./images/developmentProject.svg"
+    },
+    "block4": {
+        "name": "Build a web app",
+        "used_tool": "with AWS App Runner",
+        "time": 5,
+        "icon_src": "./images/buildAWebApp.svg"
+    },
+    "block5": {
+        "name": "Connect an IoT device",
+        "used_tool": "With AWS IoT",
+        "time": 5,
+        "icon_src": "./images/connectToIoTDevice.svg"
+    },
+    "block6": {
+        "name": "Deploy a serverless microservice",
+        "used_tool": "With API Gateway",
+        "time": 2,
+        "icon_src": "./images/deploySeverlessMicroservice.svg"
+    }
+}
